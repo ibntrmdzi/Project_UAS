@@ -31,4 +31,8 @@ Mata Kuliah : Bahasa Pemograman
 ?raw=true)
    Bagian ini memastikan bahwa fungsi main hanya akan dijalankan jika file ini dijalankan sebagai program utama, bukan diimpor sebagai modul di program lain.
 
-Link Dokumentasi
+7. Hasil Program
+   ![alt text](![Cuplikan layar 2025-01-31 181020](https://github.com/user-attachments/assets/d88fc53e-83b3-40e1-bf09-c827db603230)
+?raw=true)
+
+Link Dokumentasi https://youtu.be/3S8zgCe589A?si=wpCgaP6dbPVDk4zD
